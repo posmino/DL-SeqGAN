@@ -1,5 +1,6 @@
 # SeqGAN
-
+Deep Learing 실습 과제
+POSCO ICT 황민호
 ## Requirements: 
 * **Tensorflow r1.0.1**
 * Python 2.7
